@@ -3,6 +3,7 @@
 }
 
 body {
+  overflow: hidden;
   /* background-color: rgba(0,255,0,0.03); */
   display: flex;
   justify-content: center;
